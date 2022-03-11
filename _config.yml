@@ -39,7 +39,7 @@ favicon: "/img/favicon_clover.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/favicon_clover.ico"
+black-favicon:
 logo: # leave blank if you don't want a logo
 
 background-img: "../img/tech.gif"
@@ -176,6 +176,8 @@ social:
     url: "https://twitter.com/"
   - title: "github"
     url: "https://github.com/LuCkYProgram"
+  - title: "linked-in"
+    url: "https://www.linkedin.com/in/hong-kevin-843987204/"
 
 
 ############
