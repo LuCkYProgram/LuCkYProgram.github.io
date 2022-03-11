@@ -29,20 +29,20 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+author: "Kevin Hong"
+title: "{ Kevin Hong }"
+description: "Personal website and portfolio for Kevin Hong. Open source and custom personalized website."
+keywords: "hong, kevin, data, website, portfolio"
 favicon: "/img/favicon.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
-logo: "/img/author.png" # leave blank if you don't want a logo
+black-favicon: "/img/favicon.ico"
+logo: "/img/author.jpg" # leave blank if you don't want a logo
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/tech.gif"
 
 ##############################
 # Dynamic Text on the Header #
