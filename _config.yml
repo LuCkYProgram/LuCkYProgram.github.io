@@ -56,10 +56,11 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "“Information is the oil of the 21st century, and analytics is the combustion engine.”"
+  - text: "“Data are just summaries of thousands of stories—tell a few of those stories to help make the data meaningful.”"
+  - text: "“No data is clean, but most is useful.”"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/me.png"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -147,7 +148,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "hkevin090602@gmail.com"
 
 
 # Set a url pointing to your publish PGP Public Key here, and it will appear in the Contact section
