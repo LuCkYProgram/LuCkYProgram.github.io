@@ -40,7 +40,7 @@ favicon: "/img/favicon.ico"
 ################
 
 black-favicon: "/img/favicon.ico"
-logo: "/img/author.jpg" # leave blank if you don't want a logo
+logo: "" # leave blank if you don't want a logo
 
 background-img: "../img/tech.gif"
 
@@ -60,7 +60,7 @@ lines: # You can add HTML Tags in the Text
   - text: "“Data are just summaries of thousands of stories—tell a few of those stories to help make the data meaningful.”"
   - text: "“No data is clean, but most is useful.”"
 
-me-img: "/img/me.png"
+me-img: "/img/me.jpg"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -124,7 +124,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "personal-jekyll-theme"
+disqus-shortname: "kevin-hong-personal"
 
 syntax-highlight: True
 
@@ -162,8 +162,8 @@ pgp: False
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author.png"
+author_blurb: "Kevin Hong is a sophomore at MSU. He always is eager to learn new things and tell the stories of what numbers represent everyday."
+author_blurb_image: "/img/author.jpg"
 
 ##################
 # Social Buttons #
