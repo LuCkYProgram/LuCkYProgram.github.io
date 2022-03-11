@@ -33,13 +33,13 @@ author: "Kevin Hong"
 title: "{ Kevin Hong }"
 description: "Personal website and portfolio for Kevin Hong. Open source and custom personalized website."
 keywords: "hong, kevin, data, website, portfolio"
-favicon: "/img/favicon.ico"
+favicon: "/img/favicon_clover.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/favicon.ico"
+black-favicon: "/img/favicon_clover.ico"
 logo: # leave blank if you don't want a logo
 
 background-img: "../img/tech.gif"
