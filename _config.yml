@@ -39,8 +39,8 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: ""
-logo: "" # leave blank if you don't want a logo
+black-favicon: "/img/favicon.ico"
+logo: # leave blank if you don't want a logo
 
 background-img: "../img/tech.gif"
 
