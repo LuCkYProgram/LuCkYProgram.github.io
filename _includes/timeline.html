@@ -26,7 +26,7 @@
                 <h4>{{ event.date }}</h4>
               </div>
               <div class="timeline-body">
-                {{ event.description | markdownify }}
+                <a href="{{ event.link }}" target="_blank">{{ event.description | markdownify }}</a>
               </div>
             </div>
           </li>
