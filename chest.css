@@ -252,14 +252,14 @@ details[open] + .drawer__structure,
 .drawer__structure[open] + .drawer__structure {
   --open: var(--limit);
 }
-/* summary {
+summary {
   outline: transparent;
   height: 100%;
   width: 100%;
 }
 summary::-webkit-details-marker {
   display: none;
-} */
+}
 summary:after {
   content: '';
   position: absolute;
