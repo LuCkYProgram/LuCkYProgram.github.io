@@ -38,6 +38,8 @@
   transform: translate3d(0, 0, 50vmin) rotateX(-32deg) rotateY(40deg);
   width: calc(var(--width) * 1vmin);
   color: #1c1717;
+  margin-left: auto;
+  margin-right: auto;
 }
 .chest__panel {
   position: absolute;
