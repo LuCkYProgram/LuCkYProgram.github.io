@@ -259,7 +259,7 @@ details[open] + .drawer__structure,
 }
 summary::-webkit-details-marker {
   display: none;
-}
+} */
 summary:after {
   content: '';
   position: absolute;
@@ -269,7 +269,7 @@ summary:after {
   top: 50%;
   left: 50%;
   transform: translate3d(-50%, -50%, 0.5vmin);
-} */
+}
 @-webkit-keyframes wave {
   0%, 100% {
     transform: translate3d(0, 10%, 1px);
