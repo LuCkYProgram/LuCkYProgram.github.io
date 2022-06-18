@@ -6,7 +6,7 @@
   will-change: transform;
 }
 :root {
-  /* --bg: #bcccdc; */
+  --bg: #bcccdc;
   --hover: 0.05;
   --default: 0.01;
   --limit: 0.9;
