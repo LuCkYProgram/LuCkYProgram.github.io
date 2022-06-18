@@ -6,7 +6,7 @@
   will-change: transform;
 }
 :root {
-  --bg: #bcccdc;
+  /* --bg: #bcccdc; */
   --hover: 0.05;
   --default: 0.01;
   --limit: 0.9;
@@ -252,7 +252,7 @@ details[open] + .drawer__structure,
 .drawer__structure[open] + .drawer__structure {
   --open: var(--limit);
 }
-summary {
+/* summary {
   outline: transparent;
   height: 100%;
   width: 100%;
@@ -269,7 +269,7 @@ summary:after {
   top: 50%;
   left: 50%;
   transform: translate3d(-50%, -50%, 0.5vmin);
-}
+} */
 @-webkit-keyframes wave {
   0%, 100% {
     transform: translate3d(0, 10%, 1px);
