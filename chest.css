@@ -26,13 +26,13 @@
   --unit-four: hsl(var(--hue), var(--saturation), 15%);
   --transition: 0.2s;
 }
-body {
+/* body {
   background: var(--bg);
   display: grid;
   place-items: center;
   min-height: 100vh;
   transform: scale(1.5);
-}
+} */
 .chest {
   height: calc(var(--height) * 1vmin);
   transform: translate3d(0, 0, 50vmin) rotateX(-32deg) rotateY(40deg);
