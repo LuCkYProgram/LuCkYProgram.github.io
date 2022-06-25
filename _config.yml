@@ -210,7 +210,7 @@ pages_list:
   About: 'about'
   Featured: 'latest-post'
   Projects: 'timeline'
-  Contact: 'contact'
+  Contact / Resume: 'contact'
 
 # Exclusion list from the generated _site
 
