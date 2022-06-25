@@ -23,14 +23,14 @@ body {
 	width: 50vw;
 	/* 	box-shadow: 0 0 15px rgba(128, 174, 233, 1),
 		10px 10px 10px rgba(82, 146, 229, 0.5); */
-	display: flex;
+	/* display: flex;
 	justify-content: center;
 	align-items: center;
 	flex-direction: column;
 
 	position: relative;
 	perspective: 1000px;
-	transition: 0.5s;
+	transition: 0.5s; */
 }
 
 .twitter {
