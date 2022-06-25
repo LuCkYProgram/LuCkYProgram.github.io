@@ -42,7 +42,7 @@ body {
 	display: grid;
 	place-items: center;
 
-	position: relative;
+	/* position: relative; */
 	transform-style: preserve-3d;
 	transition: 0.5s;
 	transform: skewY(10deg);
@@ -54,7 +54,7 @@ body {
 
 .twitter::before {
 	content: "";
-	position: absolute;
+	/* position: absolute; */
 	background: #ece9eb;
 	transition: 0.5s;
 
@@ -69,7 +69,7 @@ body {
 
 .twitter::after {
 	content: "";
-	position: absolute;
+	/* position: absolute; */
 	background: #b5bbd9;
 	transition: 0.5s;
 
@@ -96,7 +96,7 @@ body {
 	width: 7vw;
 	height: 3vw;
 	background: #d2d6eb;
-	position: relative;
+	/* position: relative; */
 	top: -1px;
 	transform-style: preserve-3d;
 	transition: 0.5s;
@@ -121,7 +121,7 @@ body {
 	border-radius: 50%;
 	margin-top: -50px;
 
-	position: relative;
+	/* position: relative; */
 	transform-style: preserve-3d;
 	transition: 0.5s;
 	transform: rotatex(60deg);
