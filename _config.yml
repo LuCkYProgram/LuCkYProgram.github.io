@@ -31,7 +31,7 @@ force-https: True
 lang: "en"
 author: "Kevin Hong"
 title: "{ Kevin Hong }"
-description: "Personal website and portfolio for Kevin Hong. Open source and custom personalized website."
+description: "Personal website and portfolio for Kevin Hong. Hand crafted and custom personalized website."
 keywords: "hong, kevin, data, website, portfolio"
 favicon: "/img/favicon_clover.ico"
 
