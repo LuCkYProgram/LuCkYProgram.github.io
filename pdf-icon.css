@@ -26,7 +26,7 @@ html {
   overflow: hidden;
   color: white;
   height: 100px;
-  margin: 5px;
+  /* margin: 5px; */
   width: 100px;
   border-radius: 50%;
   display: table-cell;
@@ -34,8 +34,6 @@ html {
   text-align: center;
   background-color: rgba(100, 100, 100, .8);
   cursor: pointer;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .button > .icon {
@@ -49,9 +47,11 @@ html {
 }
 
 .buttons-panel {
-  display: table-cell;
+  /* display: table-cell; */
   vertical-align: middle;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .icon {
