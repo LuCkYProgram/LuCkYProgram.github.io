@@ -142,7 +142,7 @@ events:
     description: "Parkinson's Basic Machine Learning"
     link: "https://github.com/LuCkYProgram/Parkinsons-Basic-Machine-Learning"
   - image: "/img/timeline/msuai.png"
-    date: "September 2021 - *Present/Ongoing*"
+    date: "September 2021 - `Present/Ongoing`"
     description: "Attendance Project - MSU AI Club"
     link: "https://github.com/MSU-AI/Attendance-Project"
   - image: "/img/timeline/fruit.jpg"
