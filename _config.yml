@@ -172,7 +172,7 @@ pgp: False
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Kevin Hong is a sophomore at MSU. He always is eager to learn new things and tell the stories of what numbers represent everyday."
+author_blurb: "Kevin Hong is a junior at the University of Michigan. He always is eager to learn new things and tell the stories of what numbers represent everyday."
 author_blurb_image: "/img/author.jpg"
 
 ##################
