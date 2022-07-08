@@ -150,9 +150,13 @@ events:
     description: "Fruit Ninja AR"
     link: "https://github.com/LuCkYProgram/Fruit-Ninja-AR"
   - image: "/img/timeline/discord.png"
-    date: "July 2022 - Ongoing"
+    date: "Starting Soon"
     description: "Clovey v2 - Discord Bot"
     link: "https://github.com/LuCkYProgram/cloveyv2"
+  - image: "/img/timeline/chatbot.png"
+    date: "Starting Soon"
+    description: "Data / Chat Bot - Generating Data!"
+    link: ""
 
 # First image of the Timeline
 
