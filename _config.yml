@@ -124,8 +124,6 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "kevin-hong-personal"
-
 syntax-highlight: True
 
 ############
@@ -150,7 +148,7 @@ events:
     description: "Fruit Ninja AR"
     link: "https://github.com/LuCkYProgram/Fruit-Ninja-AR"
   - image: "/img/timeline/discord.png"
-    date: "Starting Soon"
+    date: "July 2022 - Present/Ongoing"
     description: "Clovey v2 - Discord Bot"
     link: "https://github.com/LuCkYProgram/cloveyv2"
   - image: "/img/timeline/chatbot.png"
