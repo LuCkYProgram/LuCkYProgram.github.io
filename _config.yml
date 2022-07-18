@@ -59,6 +59,7 @@ lines: # You can add HTML Tags in the Text
   - text: "“Information is the oil of the 21st century, and analytics is the combustion engine.”"
   - text: "“Data are just summaries of thousands of stories—tell a few of those stories to help make the data meaningful.”"
   - text: "“No data is clean, but most is useful.”"
+  - text: "Scroll down to see more of who Kevin Hong is!"
 
 me-img: "/img/me.jpg"
 
@@ -120,9 +121,6 @@ linkedin-share: True
 reddit-share: True
 google-plus-share: True
 tumblr-share: True
-pinterest-share: True
-pocket-share: True
-vkontakte-share: True
 
 syntax-highlight: True
 
