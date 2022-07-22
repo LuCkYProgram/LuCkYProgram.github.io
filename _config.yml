@@ -56,9 +56,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "“Information is the oil of the 21st century, and analytics is the combustion engine.”"
-  - text: "“Data are just summaries of thousands of stories—tell a few of those stories to help make the data meaningful.”"
-  - text: "“No data is clean, but most is useful.”"
+  - text: "“Information is the oil of the 21st century, and analytics is the combustion engine.” ~ Peter Sondergaard"
+  - text: "“Data are just summaries of thousands of stories—tell a few of those stories to help make the data meaningful.” ~ Dan Heath"
+  - text: "“No data is clean, but most is useful.” ~ Dean Abbott"
   - text: "Scroll down to see more of who Kevin Hong is!"
 
 me-img: "/img/me.jpg"
